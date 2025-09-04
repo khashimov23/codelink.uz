@@ -1,0 +1,13 @@
+{
+  "name": "Codelink.uz",
+  "short_name": "Codelink",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00c6a7",
+  "icons": [
+    { "src": "images/logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "images/logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
+
