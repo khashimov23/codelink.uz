@@ -55,10 +55,10 @@ export const SERVICES: Service[] = [
 ];
 
 export const STATS: Stat[] = [
-  { value: 50, suffix: "+", label: "Projects Delivered" },
+  { value: 10, suffix: "+", label: "Projects Delivered" },
   { value: 98, suffix: "%", label: "Client Satisfaction" },
-  { value: 15, suffix: "+", label: "Team Members" },
-  { value: 3, suffix: "+", label: "Years of Experience" },
+  { value: 12, suffix: "+", label: "Team Members" },
+  { value: 5, suffix: "+", label: "Years of Experience" },
 ];
 
 export const PROCESS_STEPS: ProcessStep[] = [

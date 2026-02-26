@@ -221,7 +221,7 @@ export const translations = {
     },
     services: {
       tag: "XIZMATLAR",
-      title: "Nima yaratamiz",
+      title: "Nimalar qila olamiz",
       subtitle:
         "Strategiyadan tortib ishga tushirishgacha — to'liq raqamli mahsulot ishlanmasi.",
       items: [
